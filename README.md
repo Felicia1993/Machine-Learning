@@ -37,6 +37,20 @@ Non linear parameters don't effect its performance
 
 - High variance: The model can get unstable due to small variation in data. 
 
-- A highly complicated decision tree trends to have a low bias which makes it difficult for the model to work with new data. 
+- A highly complicated decision tree trends to have a low bias which makes it difficult for the model to work with new data.
+
+### Random Forest
+Advantage of Random Forest 
+- No overfitting:
+	- Use of multiple trees reduces the risks of overfitting
+	- Training time is less
+- High accuracy:
+	- Runs efficiently on large databases
+	- For large data, it produce highly accurate predictions  
+  
+
+- Estimate missing data: 
+	- Random Forest can maintain accuracy when a large proportion of data is missing 
+
 
  
