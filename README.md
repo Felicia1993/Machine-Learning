@@ -58,11 +58,11 @@ Random Forest or random decision forest is a method that operates by constructin
 Decision Tree is a tree shaped diagram used to determine a course of action. Each branch of the tree represents a possible decision, occurrence or reaction. 
 
 ##### Important Terms 
-/**Entropy**/: Entropy is the measure of randomness or unpredictability in the dataset. 
-/**Information gain**/: It is the measure of decrease in entropy after the dataset is split. 
-/**Leaf node**/: carries the classification or the decision 
-/**Decision node**/: has 2 or more branches 
-/**Root node**/: The top most decision node is known as the root node.  
+**Entropy**: Entropy is the measure of randomness or unpredictability in the dataset. 
+**Information gain**: It is the measure of decrease in entropy after the dataset is split. 
+**Leaf node**: carries the classification or the decision 
+**Decision node**: has 2 or more branches 
+**Root node**: The top most decision node is known as the root node.  
 
 
  
