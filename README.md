@@ -50,7 +50,19 @@ Advantage of Random Forest
   
 
 - Estimate missing data: 
-	- Random Forest can maintain accuracy when a large proportion of data is missing 
+	- Random Forest can maintain accuracy when a large proportion of data is missing
+
+Random Forest or random decision forest is a method that operates by constructing multiple Decision trees during training phase. The decision of the majority of the trees is chosen by the random forest as the final decision. 
+
+#### Decision Tree 
+Decision Tree is a tree shaped diagram used to determine a course of action. Each branch of the tree represents a possible decision, occurrence or reaction. 
+
+##### Important Terms 
+/**Entropy**/: Entropy is the measure of randomness or unpredictability in the dataset. 
+/**Information gain**/: It is the measure of decrease in entropy after the dataset is split. 
+/**Leaf node**/: carries the classification or the decision 
+/**Decision node**/: has 2 or more branches 
+/**Root node**/: The top most decision node is known as the root node.  
 
 
  
