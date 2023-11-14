@@ -1,6 +1,8 @@
 # Machine-Learning
+machine learning self-study program
 ## machine-learning models
-### linear Regression
+### Regression Regression
+SONAR Rock vs. Mine Prediction with Python, by using a logistic regression model to identify the type of input whether belongs to Rock or Mine.
 ### clustering
 #### Hierarchical clustering
 Hierarchical clustering: Cluster have a tree like structure or a parent child relationship 
