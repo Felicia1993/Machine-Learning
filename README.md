@@ -1,5 +1,5 @@
 # Machine-Learning
-machine learning self-study program
+machine learning self-study programs
 ## machine-learning models
 ### Regression Regression
 SONAR Rock vs. Mine Prediction with Python, by using a logistic regression model to identify the type of input whether belongs to Rock or Mine.
